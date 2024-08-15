@@ -13,7 +13,8 @@
 
 ---
 
-## 📖 Introduction
+<a name="introduction"></a>
+## <span style="color: #2E8B57;">📖 Introduction</span>
 Welcome to **The Wild Oasis** 🏕️, the ultimate admin management platform tailored for a luxury cabin hotel experience. Nestled in the heart of the woods 🌲, The Wild Oasis offers an unparalleled retreat for its guests, and this platform ensures that the administrative side runs just as smoothly.
 
 This platform is more than just a tool—it's a comprehensive solution for managing your hotel's day-to-day operations. From visualizing sales data 📊 to handling bookings 🛏️, payments 💳, and cabin management 🏡, The Wild Oasis platform is designed to be your all-in-one administrative hub.
@@ -22,7 +23,8 @@ With its intuitive dashboard, secure login 🔒, and customizable settings ⚙�
 
 ---
 
-## 🚀 Features
+<a name="features"></a>
+## <span style="color: #4682B4;">🚀 Features</span>
 - **📊 Dynamic Dashboard**: Beautifully rendered charts and stats for sales, stay durations, occupancy rates, check-ins, and bookings.
 - **🛏️ Advanced Booking Management**: Full control over bookings with filtering, sorting, and pagination for a seamless user experience.
 - **💳 Payment Processing & Extras**: Manage payments and luxury extras (e.g., breakfast 🍳) effortlessly.
@@ -35,7 +37,8 @@ With its intuitive dashboard, secure login 🔒, and customizable settings ⚙�
 
 ---
 
-## 💻 Technologies
+<a name="technologies"></a>
+## <span style="color: #8A2BE2;">💻 Technologies</span>
 **The Wild Oasis** is powered by a robust tech stack that ensures a seamless, responsive, and scalable experience:
 
 ### **Frontend:**
@@ -66,7 +69,8 @@ With its intuitive dashboard, secure login 🔒, and customizable settings ⚙�
 
 ---
 
-## 🛠️ Usage
+<a name="usage"></a>
+## <span style="color: #FF6347;">🛠️ Usage</span>
 To get started with **The Wild Oasis** platform:
 
 1. **Install the dependencies:**
@@ -80,21 +84,24 @@ To get started with **The Wild Oasis** platform:
     ```
 
 3. **Access the website:**
-   Open your browser and go to `http://localhost:3000` to explore the platform.
+   Open your browser and go to `https://the-wildoasis-admin.netlify.app/` to explore the platform.
 
 ---
 
-## 🤝 Contributing
+<a name="contributing"></a>
+## <span style="color: #FFD700;">🤝 Contributing</span>
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**! 🎉
 
 ---
 
-## 📜 License
+<a name="license"></a>
+## <span style="color: #20B2AA;">📜 License</span>
 Distributed under the **MIT License**. See `LICENSE` for more information.
 
 ---
 
-## 📬 Contact
+<a name="contact"></a>
+## <span style="color: #FF69B4;">📬 Contact</span>
 Have questions or need help? Feel free to reach out!
 
 - **👤 Name**: Youssef Khalifa
@@ -103,3 +110,7 @@ Have questions or need help? Feel free to reach out!
 ---
 
 Thank you for choosing **The Wild Oasis** admin platform! 🌟
+
+---
+
+[Visit The Wild Oasis Admin Website](https://the-wildoasis-admin.netlify.app)
