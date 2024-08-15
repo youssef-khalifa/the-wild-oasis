@@ -108,7 +108,9 @@ const GlobalStyles = createGlobalStyle`
   /* Creating animations for dark mode */
   transition: background-color 0.3s, border 0.3s;
 }
-
+*::-webkit-scrollbar {
+  display: none; /* Hide scrollbars for Webkit browsers */
+}
 html {
   font-size: 62.5%;
 }
