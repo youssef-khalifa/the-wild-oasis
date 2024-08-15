@@ -60,7 +60,6 @@ With its intuitive dashboard, secure login 🔒, and customizable settings ⚙�
 - **💻 Vite**: A fast build tool for modern web development.
 - **🧹 ESLint**: Identify and fix problems in your JavaScript codebase.
 - **🎨 Prettier**: Code formatter for consistent code style.
-- **🟦 TypeScript**: Static typing to enhance JavaScript with type safety.
 
 ### **Additional Utilities:**
 - **🚨 React Error Boundary**: Ensures that runtime errors don't crash the app.
