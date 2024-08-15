@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![Wild Oasis Logo](https://via.placeholder.com/150)
+![Wild Oasis Logo](https://hnkoqgcfyderpaztebuy.supabase.co/storage/v1/object/public/logo/logo-dark.png)
 
 </div>
 
